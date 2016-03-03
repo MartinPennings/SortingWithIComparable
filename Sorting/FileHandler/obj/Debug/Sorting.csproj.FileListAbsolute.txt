@@ -1,0 +1,14 @@
+D:\Github\FileHandler\FileHandler\FileHandler\bin\Debug\FileHandler.exe.config
+D:\Github\FileHandler\FileHandler\FileHandler\bin\Debug\FileHandler.exe
+D:\Github\FileHandler\FileHandler\FileHandler\bin\Debug\FileHandler.pdb
+D:\Github\FileHandler\FileHandler\FileHandler\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+D:\Github\FileHandler\FileHandler\FileHandler\obj\Debug\MainWindow.g.cs
+D:\Github\FileHandler\FileHandler\FileHandler\obj\Debug\App.g.cs
+D:\Github\FileHandler\FileHandler\FileHandler\obj\Debug\FileHandler_MarkupCompile.cache
+D:\Github\FileHandler\FileHandler\FileHandler\obj\Debug\FileHandler_MarkupCompile.lref
+D:\Github\FileHandler\FileHandler\FileHandler\obj\Debug\MainWindow.baml
+D:\Github\FileHandler\FileHandler\FileHandler\obj\Debug\FileHandler.g.resources
+D:\Github\FileHandler\FileHandler\FileHandler\obj\Debug\FileHandler.Properties.Resources.resources
+D:\Github\FileHandler\FileHandler\FileHandler\obj\Debug\Sorting.csproj.GenerateResource.Cache
+D:\Github\FileHandler\FileHandler\FileHandler\obj\Debug\FileHandler.exe
+D:\Github\FileHandler\FileHandler\FileHandler\obj\Debug\FileHandler.pdb
